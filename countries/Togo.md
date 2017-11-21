@@ -14,3 +14,6 @@ Ewe
 Kabiye
 
 ## interesting trivia
+
+Despite being one of the smallest countries by area, they enjoy one of the highest standards of
+living in Africa due to its valuable phosphate deposits and export sector.
