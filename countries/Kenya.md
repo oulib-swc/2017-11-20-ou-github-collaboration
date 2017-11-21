@@ -1,6 +1,6 @@
 ##Kenya
 ## population
-
+41,236,097
 
 ## capital
 
