@@ -9,6 +9,6 @@ Ottawa
 English and French
 
 ## interesting trivia
-It's the best and there is a lot of curling.
+Money is plastic!
 
 
