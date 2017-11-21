@@ -1,6 +1,7 @@
 ##Maldives
-## population
+## population  
 
+764646
 
 ## capital
 
