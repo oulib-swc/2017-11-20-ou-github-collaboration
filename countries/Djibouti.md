@@ -12,6 +12,6 @@ Somali
 Afar
 
 ## interesting trivia
-
+Located at a tectonic triple junction.
 
 
