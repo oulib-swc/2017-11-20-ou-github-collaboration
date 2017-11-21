@@ -1,6 +1,6 @@
 ##Tuvalu
 ## population
-
+11,097
 
 ## capital
 
